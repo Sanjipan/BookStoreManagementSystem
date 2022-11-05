@@ -66,5 +66,5 @@ con=mysql.connector.connect(host="localhost<host>",user="root<user>",passwd="<pa
 ## Authors:
 
 - [@Sanjipan](https://github.com/Sanjipan)
-- [@Abanteeka](https://github.com/)
+- [@Abanteeka](https://github.com/Abanteeka/)
 
